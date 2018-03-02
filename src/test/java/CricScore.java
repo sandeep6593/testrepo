@@ -21,6 +21,7 @@ while(score<target){
 	public static int randomNumber(int min,int max){
 		Random ran=new Random();
 		int randomNumber=ran.nextInt(7);
+		int kl=52;
 		return randomNumber;
 		
 	}
