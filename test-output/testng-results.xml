@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="168" started-at="2017-07-17T04:00:17Z" finished-at="2017-07-17T04:00:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="168" started-at="2017-07-17T04:00:17Z" finished-at="2017-07-17T04:00:17Z">
+      <class name="Methodnames">
+        <test-method status="PASS" signature="name()[pri:0, instance:Methodnames@4c70fda8]" name="name" duration-ms="36" started-at="2017-07-17T09:30:17Z" finished-at="2017-07-17T09:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name -->
+        <test-method status="PASS" signature="values()[pri:0, instance:Methodnames@4c70fda8]" name="values" duration-ms="4" started-at="2017-07-17T09:30:17Z" finished-at="2017-07-17T09:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- values -->
+      </class> <!-- Methodnames -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
